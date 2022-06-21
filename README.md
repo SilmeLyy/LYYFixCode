@@ -22,7 +22,7 @@ pod 'LYYFixCode'
 
 ## Author
 
-294988383@qq.com, leiyuyu1993@163.com
+leiyuyu1993@163.com
 
 ## License
 
